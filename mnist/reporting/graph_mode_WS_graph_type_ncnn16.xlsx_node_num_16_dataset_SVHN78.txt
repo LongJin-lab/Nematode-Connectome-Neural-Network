@@ -1,0 +1,200 @@
+[Epoch   1] Test set accuracy: 81.715%, , Best accuracy: 0.00%
+ Training time: 209.86281204223633
+[Epoch   2] Test set accuracy: 86.236%, , Best accuracy: 81.71%
+ Training time: 441.3974823951721
+[Epoch   3] Test set accuracy: 87.611%, , Best accuracy: 86.24%
+ Training time: 673.2749652862549
+[Epoch   4] Test set accuracy: 88.848%, , Best accuracy: 87.61%
+ Training time: 904.9744353294373
+[Epoch   5] Test set accuracy: 89.513%, , Best accuracy: 88.85%
+ Training time: 1138.3206729888916
+[Epoch   6] Test set accuracy: 86.140%, , Best accuracy: 89.51%
+ Training time: 1371.5413434505463
+[Epoch   7] Test set accuracy: 88.699%, , Best accuracy: 89.51%
+ Training time: 1603.2669179439545
+[Epoch   8] Test set accuracy: 90.650%, , Best accuracy: 89.51%
+ Training time: 1835.6088061332703
+[Epoch   9] Test set accuracy: 85.422%, , Best accuracy: 90.65%
+ Training time: 2066.812440633774
+[Epoch  10] Test set accuracy: 88.722%, , Best accuracy: 90.65%
+ Training time: 2298.7420251369476
+[Epoch  11] Test set accuracy: 88.049%, , Best accuracy: 90.65%
+ Training time: 2531.1971323490143
+[Epoch  12] Test set accuracy: 88.787%, , Best accuracy: 90.65%
+ Training time: 2763.46656870842
+[Epoch  13] Test set accuracy: 90.224%, , Best accuracy: 90.65%
+ Training time: 2996.287741422653
+[Epoch  14] Test set accuracy: 85.318%, , Best accuracy: 90.65%
+ Training time: 3228.2323908805847
+[Epoch  15] Test set accuracy: 86.728%, , Best accuracy: 90.65%
+ Training time: 3459.9251005649567
+[Epoch  16] Test set accuracy: 90.300%, , Best accuracy: 90.65%
+ Training time: 3692.5586397647858
+[Epoch  17] Test set accuracy: 91.487%, , Best accuracy: 90.65%
+ Training time: 3924.3426444530487
+[Epoch  18] Test set accuracy: 89.275%, , Best accuracy: 91.49%
+ Training time: 4155.978161811829
+[Epoch  19] Test set accuracy: 90.135%, , Best accuracy: 91.49%
+ Training time: 4388.924636125565
+[Epoch  20] Test set accuracy: 86.482%, , Best accuracy: 91.49%
+ Training time: 4621.212093830109
+[Epoch  21] Test set accuracy: 90.362%, , Best accuracy: 91.49%
+ Training time: 4853.5112936496735
+[Epoch  22] Test set accuracy: 89.705%, , Best accuracy: 91.49%
+ Training time: 5085.60076212883
+[Epoch  23] Test set accuracy: 85.418%, , Best accuracy: 91.49%
+ Training time: 5317.390699625015
+[Epoch  24] Test set accuracy: 90.147%, , Best accuracy: 91.49%
+ Training time: 5548.316781759262
+[Epoch  25] Test set accuracy: 92.855%, , Best accuracy: 91.49%
+ Training time: 5780.35461974144
+[Epoch  26] Test set accuracy: 90.777%, , Best accuracy: 92.85%
+ Training time: 6014.436708450317
+[Epoch  27] Test set accuracy: 88.937%, , Best accuracy: 92.85%
+ Training time: 6247.178709745407
+[Epoch  28] Test set accuracy: 89.194%, , Best accuracy: 92.85%
+ Training time: 6479.288852214813
+[Epoch  29] Test set accuracy: 88.460%, , Best accuracy: 92.85%
+ Training time: 6711.638853311539
+[Epoch  30] Test set accuracy: 95.563%, , Best accuracy: 92.85%
+ Training time: 6921.469985246658
+[Epoch  31] Test set accuracy: 96.039%, , Best accuracy: 95.56%
+ Training time: 7080.67696762085
+[Epoch  32] Test set accuracy: 96.024%, , Best accuracy: 96.04%
+ Training time: 7239.614413499832
+[Epoch  33] Test set accuracy: 96.112%, , Best accuracy: 96.04%
+ Training time: 7400.427169799805
+[Epoch  34] Test set accuracy: 95.943%, , Best accuracy: 96.11%
+ Training time: 7559.465361595154
+[Epoch  35] Test set accuracy: 96.166%, , Best accuracy: 96.11%
+ Training time: 7718.479699850082
+[Epoch  36] Test set accuracy: 96.162%, , Best accuracy: 96.17%
+ Training time: 7877.198020219803
+[Epoch  37] Test set accuracy: 96.224%, , Best accuracy: 96.17%
+ Training time: 8036.052271366119
+[Epoch  38] Test set accuracy: 96.255%, , Best accuracy: 96.22%
+ Training time: 8192.745281934738
+[Epoch  39] Test set accuracy: 95.774%, , Best accuracy: 96.25%
+ Training time: 8348.346885442734
+[Epoch  40] Test set accuracy: 96.101%, , Best accuracy: 96.25%
+ Training time: 8506.282313346863
+[Epoch  41] Test set accuracy: 95.356%, , Best accuracy: 96.25%
+ Training time: 8662.135419368744
+[Epoch  42] Test set accuracy: 95.967%, , Best accuracy: 96.25%
+ Training time: 8817.998916387558
+[Epoch  43] Test set accuracy: 95.567%, , Best accuracy: 96.25%
+ Training time: 8973.77025938034
+[Epoch  44] Test set accuracy: 95.855%, , Best accuracy: 96.25%
+ Training time: 9129.30391049385
+[Epoch  45] Test set accuracy: 96.136%, , Best accuracy: 96.25%
+ Training time: 9284.95633816719
+[Epoch  46] Test set accuracy: 95.774%, , Best accuracy: 96.25%
+ Training time: 9440.963737010956
+[Epoch  47] Test set accuracy: 95.905%, , Best accuracy: 96.25%
+ Training time: 9599.047906398773
+[Epoch  48] Test set accuracy: 95.821%, , Best accuracy: 96.25%
+ Training time: 9754.73419547081
+[Epoch  49] Test set accuracy: 95.786%, , Best accuracy: 96.25%
+ Training time: 9910.026672840118
+[Epoch  50] Test set accuracy: 95.271%, , Best accuracy: 96.25%
+ Training time: 10065.870676755905
+[Epoch  51] Test set accuracy: 95.882%, , Best accuracy: 96.25%
+ Training time: 10221.698310136795
+[Epoch  52] Test set accuracy: 95.271%, , Best accuracy: 96.25%
+ Training time: 10377.707879543304
+[Epoch  53] Test set accuracy: 95.690%, , Best accuracy: 96.25%
+ Training time: 10533.667207479477
+[Epoch  54] Test set accuracy: 95.655%, , Best accuracy: 96.25%
+ Training time: 10691.66771888733
+[Epoch  55] Test set accuracy: 95.509%, , Best accuracy: 96.25%
+ Training time: 10847.057170391083
+[Epoch  56] Test set accuracy: 95.482%, , Best accuracy: 96.25%
+ Training time: 11002.91264462471
+[Epoch  57] Test set accuracy: 95.705%, , Best accuracy: 96.25%
+ Training time: 11158.759061813354
+[Epoch  58] Test set accuracy: 95.940%, , Best accuracy: 96.25%
+ Training time: 11314.539282560349
+[Epoch  59] Test set accuracy: 95.847%, , Best accuracy: 96.25%
+ Training time: 11470.328474521637
+[Epoch  60] Test set accuracy: 96.443%, , Best accuracy: 96.25%
+ Training time: 11627.489694356918
+[Epoch  61] Test set accuracy: 96.558%, , Best accuracy: 96.44%
+ Training time: 11785.75880074501
+[Epoch  62] Test set accuracy: 96.504%, , Best accuracy: 96.56%
+ Training time: 11941.446636676788
+[Epoch  63] Test set accuracy: 96.581%, , Best accuracy: 96.56%
+ Training time: 12097.5676715374
+[Epoch  64] Test set accuracy: 96.585%, , Best accuracy: 96.58%
+ Training time: 12253.7192299366
+[Epoch  65] Test set accuracy: 96.477%, , Best accuracy: 96.58%
+ Training time: 12409.747196674347
+[Epoch  66] Test set accuracy: 96.635%, , Best accuracy: 96.58%
+ Training time: 12566.031404733658
+[Epoch  67] Test set accuracy: 96.612%, , Best accuracy: 96.63%
+ Training time: 12722.618533849716
+[Epoch  68] Test set accuracy: 96.562%, , Best accuracy: 96.63%
+ Training time: 12880.748934745789
+[Epoch  69] Test set accuracy: 96.577%, , Best accuracy: 96.63%
+ Training time: 13036.7945394516
+[Epoch  70] Test set accuracy: 96.489%, , Best accuracy: 96.63%
+ Training time: 13193.001987457275
+[Epoch  71] Test set accuracy: 96.520%, , Best accuracy: 96.63%
+ Training time: 13349.105848312378
+[Epoch  72] Test set accuracy: 96.512%, , Best accuracy: 96.63%
+ Training time: 13505.196242332458
+[Epoch  73] Test set accuracy: 96.600%, , Best accuracy: 96.63%
+ Training time: 13661.543706417084
+[Epoch  74] Test set accuracy: 96.535%, , Best accuracy: 96.63%
+ Training time: 13818.200868606567
+[Epoch  75] Test set accuracy: 96.596%, , Best accuracy: 96.63%
+ Training time: 13976.856371641159
+[Epoch  76] Test set accuracy: 96.466%, , Best accuracy: 96.63%
+ Training time: 14133.160850286484
+[Epoch  77] Test set accuracy: 96.474%, , Best accuracy: 96.63%
+ Training time: 14289.505079984665
+[Epoch  78] Test set accuracy: 96.516%, , Best accuracy: 96.63%
+ Training time: 14445.327728509903
+[Epoch  79] Test set accuracy: 96.669%, , Best accuracy: 96.63%
+ Training time: 14602.098665475845
+[Epoch  80] Test set accuracy: 96.497%, , Best accuracy: 96.67%
+ Training time: 14758.26994895935
+[Epoch  81] Test set accuracy: 96.485%, , Best accuracy: 96.67%
+ Training time: 14914.805692434311
+[Epoch  82] Test set accuracy: 96.558%, , Best accuracy: 96.67%
+ Training time: 15073.112703084946
+[Epoch  83] Test set accuracy: 96.504%, , Best accuracy: 96.67%
+ Training time: 15229.248900651932
+[Epoch  84] Test set accuracy: 96.470%, , Best accuracy: 96.67%
+ Training time: 15385.699882030487
+[Epoch  85] Test set accuracy: 96.404%, , Best accuracy: 96.67%
+ Training time: 15542.300544261932
+[Epoch  86] Test set accuracy: 96.424%, , Best accuracy: 96.67%
+ Training time: 15698.617025852203
+[Epoch  87] Test set accuracy: 96.508%, , Best accuracy: 96.67%
+ Training time: 15855.027265548706
+[Epoch  88] Test set accuracy: 96.481%, , Best accuracy: 96.67%
+ Training time: 16011.54496717453
+[Epoch  89] Test set accuracy: 96.512%, , Best accuracy: 96.67%
+ Training time: 16169.235007286072
+[Epoch  90] Test set accuracy: 96.535%, , Best accuracy: 96.67%
+ Training time: 16326.773534059525
+[Epoch  91] Test set accuracy: 96.493%, , Best accuracy: 96.67%
+ Training time: 16483.215559720993
+[Epoch  92] Test set accuracy: 96.497%, , Best accuracy: 96.67%
+ Training time: 16639.26155090332
+[Epoch  93] Test set accuracy: 96.543%, , Best accuracy: 96.67%
+ Training time: 16795.384494304657
+[Epoch  94] Test set accuracy: 96.535%, , Best accuracy: 96.67%
+ Training time: 16951.600153923035
+[Epoch  95] Test set accuracy: 96.539%, , Best accuracy: 96.67%
+ Training time: 17107.827537059784
+[Epoch  96] Test set accuracy: 96.516%, , Best accuracy: 96.67%
+ Training time: 17264.975429058075
+[Epoch  97] Test set accuracy: 96.585%, , Best accuracy: 96.67%
+ Training time: 17421.648855924606
+[Epoch  98] Test set accuracy: 96.497%, , Best accuracy: 96.67%
+ Training time: 17576.978009223938
+[Epoch  99] Test set accuracy: 96.527%, , Best accuracy: 96.67%
+ Training time: 17732.56460738182
+[Epoch 100] Test set accuracy: 96.497%, , Best accuracy: 96.67%
+ Training time: 17888.184279203415
